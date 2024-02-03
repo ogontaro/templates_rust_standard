@@ -12,6 +12,6 @@ serde = "1.0.195"
 tracing = "0.1.40"
 
 [dev-dependencies]
-cargo-nextest = "0.9.66"
+cargo-nextest = "0.9.67"
 clippy = "0.0.302"
 rustfmt = "0.10.0"
