@@ -7,7 +7,7 @@ on:
 
 jobs:
   editorconfig:
-    runs-on: [ templates-terraform-runners ]
+    runs-on: [ "ubuntu-latest" ]
 
     steps:
       - uses: actions/checkout@v4
