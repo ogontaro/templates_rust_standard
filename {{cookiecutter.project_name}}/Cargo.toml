@@ -7,7 +7,7 @@ edition = "2021"
 
 # FYI: https://blessed.rs/crates
 [dependencies]
-anyhow = "1.0.80"
+anyhow = "1.0.82"
 serde = "1.0.197"
 tracing = "0.1.40"
 
